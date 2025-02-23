@@ -61,3 +61,6 @@ i messed around with the workflows tab on the slack and was pretty much able to 
 
 <img width="291" alt="image" src="https://github.com/user-attachments/assets/48f9d802-8e28-4d0e-b378-cf1af994ddfd" />
 
+and voila, it works now, i spent HOURS stressing about this for no reason at all actually ... like i didnt need to make a ping group or add krn to my channel and then remove him or go through any of the dumb steps i did before now !!
+
+![image](https://github.com/user-attachments/assets/6a18da49-d221-4ae0-97a8-7194153f9f86)
