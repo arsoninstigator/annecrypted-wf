@@ -1,4 +1,4 @@
-# slack workflow
+# private channel workflow
 making a slack workflow to promote my private channel and also let people run it to join (or request to join) my otherwise private hack club slack channel :3 you can run the workflow yourself [here](https://slack.com/shortcuts/Ft08EM42TUUC/40b9b090ac9aaa29c4349fec2b1f95ef) to be added to my channel + ping group since i mostly just rant there
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/b4ee727d-3466-4d47-adb7-84f9d0a6675a" />
